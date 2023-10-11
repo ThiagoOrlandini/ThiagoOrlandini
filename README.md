@@ -1,6 +1,6 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/> ## Hey Devs
-
+## Hey Devs
 ### Eu sou Thiago Orlandini
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/> 
 
 <p align="center">
   <img alt="Program" src="./assets/program.gif" height=180em />
