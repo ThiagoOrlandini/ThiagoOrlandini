@@ -1,7 +1,5 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/> ## Hey Devs
 
-<img alt="Program" src="./assets/program.gif" height=150 align="center"/>
-
 ### Eu sou Thiago Orlandini
 
 <a href="https://github.com/ThiagoOrlandini/github-readme-stats">
@@ -11,3 +9,5 @@
 <a href="https://github.com/ThiagoOrlandini/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoOrlandini&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<img alt="Program" src="./assets/program.gif" height=150 align="center"/>
