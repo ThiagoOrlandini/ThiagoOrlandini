@@ -6,7 +6,7 @@
   <img alt="Program" src="./assets/program.gif" height=180em />
 </p>
 
- ![snake gif](https://github.com/ThiagoOrlandini/ThiagoOrlandini/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/ThiagoOrlandini/ThiagoOrlandini/blob/output/github-contribution-grid-snake.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
