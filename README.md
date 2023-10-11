@@ -4,6 +4,7 @@
 
 <p align="center">
   <img alt="Program" src="./assets/program.gif" height=180em />
+  ![snake gif](https://github.com/ThiagoOrlandini/ThiagoOrlandini/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
