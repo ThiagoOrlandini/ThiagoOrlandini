@@ -2,7 +2,9 @@
 
 ### Eu sou Thiago Orlandini
 
-<img alt="Program" src="./assets/program.gif" height=180em align="center"/>
+<p align="center">
+  <img alt="Program" src="./assets/program.gif" height=180em />
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
