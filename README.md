@@ -2,12 +2,13 @@
 
 ### Eu sou Thiago Orlandini
 
-<a href="https://github.com/ThiagoOrlandini/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoOrlandini&show_icons=true&theme=dark&bg_color=00000000" />
-</a>
+<img alt="Program" src="./assets/program.gif" height=150 align="center"/>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
 <a href="https://github.com/ThiagoOrlandini/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=ThiagoOrlandini&show_icons=true&theme=dark&bg_color=00000000" />
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoOrlandini&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<img alt="Program" src="./assets/program.gif" height=100 align="center"/>
+</p>
