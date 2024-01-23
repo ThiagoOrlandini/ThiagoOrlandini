@@ -18,7 +18,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018d2095-a4dd-4e79-8471-846396066696.svg)](https://wakatime.com/@018d2095-a4dd-4e79-8471-846396066696)
+<!-- [![wakatime](https://wakatime.com/badge/user/018d2095-a4dd-4e79-8471-846396066696.svg)](https://wakatime.com/@018d2095-a4dd-4e79-8471-846396066696) -->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -81,6 +81,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
+![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
