@@ -107,8 +107,8 @@
 ## Top Open Source -
 [![React Kanban](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=react-kanban&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/itasks)
 [![Thiago Orlandini Readme](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=ThiagoOrlandini&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/ThiagoOrlandini)
-<!-- [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/web-projects) -->
+[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/spotify-clone)
+<!-- [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/web-projects) -->
 
 <p align="left">
   <a href="https://github.com/ThiagoOrlandini?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
