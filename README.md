@@ -1,140 +1,45 @@
-<!--
-<h2 align="center">
-  Hey Dev
-  Welcome to Thiago Orlandini World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/ThiagoOrlandini"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
 <a href="https://komarev.com/ghpvc/?username=ThiagoOrlandini">
   <img align="right" src="https://komarev.com/ghpvc/?username=ThiagoOrlandini&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+Hey Dev!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Orlandini
+========================================================================================================================================
+Game Designer, Game Developer and Web Developer
+-----------------------------------------------
+I'm a full stack web developer and 2D/3D game
+<img align="right" width="350" src="/assets/program.gif" alt="Coding gif" />
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [orlandini.thiago@gmail.com](mailto:orlandini.thiago@gmail.com)
+* 🧠  I'm learning immersive technologies such as virtual and augmented reality
+* ⚡  Bearer of a creativity that is always traveling between the present and infinite possibilities
 
-<!-- [![wakatime](https://wakatime.com/badge/user/018d2095-a4dd-4e79-8471-846396066696.svg)](https://wakatime.com/@018d2095-a4dd-4e79-8471-846396066696) -->
+<a href="https://www.github.com/ThiagoOrlandini" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ThiagoOrlandini?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey Dev!, I am
-                <b><a target="_blank" href="https://contatonoturnagame.wixsite.com/thiagoorlandini">Thiago Orlandini</a></b>
-        </samp>
-</h3>
+### Skills
 
-
-<p align="center"> 
-  <samp>
-    「 I'm a full stack web developer and 2D/3D game from <b>Brasil</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://contatonoturnagame.wixsite.com/thiagoorlandini" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ThiagoOrlandini" />
- </a>
- <a href="https://linkedin.com/in/orlandini-thiago" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ThiagoOrlandini"/>
- </a>
- <!-- <a href="https://dev.to/ThiagoOrlandini" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ThiagoOrlandini" />
- </a> -->
- <!-- <a href="https://twitter.com/_ThiagoOrlandini" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> -->
- <a href="https://instagram.com/_thiago.orlandini" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ThiagoOrlandini" />
- </a> 
- <!-- <a href="https://facebook.com/ThiagoOrlandini.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ThiagoOrlandini"  />
-  </a> --> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/program.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: orlandini.thiago@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ThiagoOrlandini/ThiagoOrlandini/issues)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
-![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
-
-<br/>
-
-## Top Open Source -
-[![React Kanban](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=react-kanban&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/itasks)
-[![Thiago Orlandini Readme](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=ThiagoOrlandini&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/ThiagoOrlandini)
-[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=spotify-clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/spotify-clone)
-<!-- [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoOrlandini&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThiagoOrlandini/web-projects) -->
 
 <p align="left">
-  <a href="https://github.com/ThiagoOrlandini?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="hhttps://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a></p>
 
-<br/>
-<hr/>
-<br/>
+### Socials
+<p align="left"> <a href="https://discord.com/users/thiagoorlandini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ThiagoOrlandini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_thiago.orlandini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/orlandini-thiago" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="center">
-  <a href="https://github.com/ThiagoOrlandini">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoOrlandini&theme=radical&border=7F3FBF&background=0D1117" alt="Thiago Orlandini's GitHub streak"/>
-  </a>
-</p>
+### Badges
 
-<p align="center">
-  <a href="https://github.com/ThiagoOrlandini">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoOrlandini&theme=radical" alt="Thiago Orlandini's GitHub Contribution"/>
-  </a>
-</p>
+<b>My GitHub Stats</b>
 
-<a> 
-    <a href="https://github.com/ThiagoOrlandini"><img alt="Thiago Orlandini's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ThiagoOrlandini&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ThiagoOrlandini"><img alt="Thiago Orlandini's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-stats.vercel.app/api?username=ThiagoOrlandini&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ThiagoOrlandini's GitHub stats" /></a>
 
+<a href="https://github.com/ThiagoOrlandini"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoOrlandini&theme=radical&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Thiago Orlandini's GitHub Contribution"/></a>
 
-![Thiago Orlandini's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoOrlandini&custom_title=Thiago%20Orlandini's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoOrlandini&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ThiagoOrlandini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Thiago Orlandini's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoOrlandini&custom_title=Thiago%20Orlandini's%20GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=3382ed&point=3382ed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
