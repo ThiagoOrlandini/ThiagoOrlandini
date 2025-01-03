@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/ThiagoOrlandini?logo=github&style=f
 
 <a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoOrlandini&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 ![Thiago Orlandini's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoOrlandini&custom_title=Thiago%20Orlandini's%20GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=3382ed&point=3382ed&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
