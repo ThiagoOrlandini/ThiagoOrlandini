@@ -2,8 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ThiagoOrlandini&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-Hey Dev!
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Orlandini
+Hey Dev ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Orlandini
 ========================================================================================================================================
 Game Designer, Game Developer and Web Developer
 -----------------------------------------------
@@ -32,7 +31,7 @@ src="https://img.shields.io/github/followers/ThiagoOrlandini?logo=github&style=f
 
 <a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-stats.vercel.app/api?username=ThiagoOrlandini&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ThiagoOrlandini's GitHub stats" /></a>
 
-<a href="https://github.com/ThiagoOrlandini"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoOrlandini&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Thiago Orlandini's GitHub Contribution"/></a>
+<a href="https://github.com/ThiagoOrlandini"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoOrlandini&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Thiago Orlandini's GitHub Contribution"/></a>
 
 <a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoOrlandini&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
