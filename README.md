@@ -35,7 +35,9 @@ src="https://img.shields.io/github/followers/ThiagoOrlandini?logo=github&style=f
 
 <a href="http://www.github.com/ThiagoOrlandini"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoOrlandini&custom_title=Thiago%20Orlandini's%20GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=3382ed&point=3382ed&area_color=FFFFFF&title_color=FFFFFF&area=true" /></a>
 
-<a href="https://github.com/ThiagoOrlandini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ThiagoOrlandini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/ThiagoOrlandini" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOrlandini&layout=compact&theme=dracula" /></a>
 
 <b>Top Repositories</b>
 
