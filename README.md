@@ -1,138 +1,100 @@
-# 👾 Hi, I'm Thiago Orlandini — Interactive Experience Developer
-
-![Banner](assets/banner.png)
-
----
-
-## 🎮 About Me
-
-Sou desenvolvedor de jogos, desenvolvedor web e educador tecnológico, atuando na interseção entre programação, design e educação.
-
-Crio experiências digitais que unem **criatividade, narrativa e tecnologia**, com foco em impacto, engajamento e aprendizagem significativa.
-
-> I build interactive experiences through games, web technologies and education, creating solutions that are meaningful, engaging and user-centered.
+# Thiago Orlandini  
+**Interactive Experience Developer**  
+*Game Development | Web Development | Educational Technology*
 
 ---
 
-## 🧭 What I Do
+![Banner Futurista](https://via.placeholder.com/1200x400.png?text=Thiago+Orlandini+Portfolio)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/thiagoorlandini)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/thiagoorlandini)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:orlandini.thiago@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/thiagoorlandini)  
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord)](https://discordapp.com/users/thiagoorlandini)
+
+---
+
+## 👋 Hi, I’m Thiago Orlandini  
+**Interactive Experience Developer**  
+*Game Developer • Web Developer • Tech Educator*
+
+---
+
+## 📖 About Me
+Sou desenvolvedor de jogos, desenvolvedor web e educador tecnológico. Minha atuação conecta programação, design e educação para criar experiências digitais que unem criatividade, narrativa e tecnologia.  
+
+*I build interactive experiences through games, web technologies and education, creating solutions that are engaging, meaningful and user-centered.*
+
+---
+
+## 📌 Profile Summary
+| Location | Roles | Passion |
+|----------|-------|---------|
+| Brazil   | Game Developer & Designer • Full Stack Web Developer • Tech Educator | Gamification • XR • Interactive Experiences |
+
+📧 **Email:** orlandini.thiago@gmail.com  
+
+---
+
+## 💻 What I Do
 
 ### 🎮 Game Development
-Criação de experiências imersivas com foco em gameplay, narrativa e design de sistemas.
-
-- Unity
-- Gameplay Programming
-- Game Design
-- Level Design
-- Narrative Design
-
----
+- Gameplay Programming  
+- Narrative Systems  
+- Level Design  
+**Tech:** Unity, Blender  
 
 ### 🌐 Web Development
-Desenvolvimento de aplicações modernas com foco em performance e usabilidade.
+- Usability & Architecture  
+- Full Stack Development  
+- REST APIs & Databases  
+**Tech:** PHP, JavaScript, MySQL  
 
-- PHP
-- JavaScript
-- Full Stack Development
-- REST APIs
-- Databases
-
----
-
-### 🎓 Educational Technology
-Criação de experiências educacionais interativas e gamificadas.
-
-- Educational Platforms
-- Gamification
-- Educational Games
-- Active Learning
-- Interactive Experiences
+### 📚 Educational Technology
+- Gamification  
+- Educational Games  
+- Active Learning  
+**Tech:** Interactive Platforms  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
-### Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Back-end
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Front-end | Databases | Game Dev | Tools |
+|-----------|-----------|----------|-------|
+| ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) | ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | ![Unity](https://img.shields.io/badge/Unity-black?logo=unity) | ![Git](https://img.shields.io/badge/Git-orange?logo=git) ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode) |
 
 ---
 
-## ⭐ Featured Work
+## 🌟 Featured Work
 
-### 🎮 Game Projects
+### 🎮 Where I Belong
+Narrative game developed during Global Game Jam 2019.  
+**Roles:** Gameplay Programmer, Game Designer, Level Designer  
+[![Repo](https://img.shields.io/badge/View-Repository-green?logo=github)](https://github.com/thiagoorlandini/where-i-belong)
 
-#### 🌲 Where I Belong
-Narrative game developed during Global Game Jam 2019.
-
-**My Role**
-- Gameplay Programmer
-- Game Designer
-- Level Designer
-
-**Technologies**
-Unity • Blender • Photoshop • Core Gameplay Systems
-
-🔗 [View Repository](#)
+### 🌐 Featured Web Project
+Modern web application focused on user experience and software architecture.  
+**Tech:** PHP, JS, HTML5, CSS3, MySQL  
+[![Repo](https://img.shields.io/badge/View-Repository-green?logo=github)](https://github.com/thiagoorlandini/web-project)
 
 ---
 
-### 🌐 Web Projects
-
-#### 📊 Featured Web Application
-Modern web application focused on user experience and scalable architecture.
-
-**Technologies**
-PHP • JavaScript • HTML • CSS • MySQL
-
-🔗 [View Repository](#)
-
----
-
-## 🚀 Current Focus
-
-- Interactive Experience Design
-- Unity Development
-- Full Stack Web Development
-- Gamification Systems
-- Virtual & Augmented Reality
-- Educational Technologies
+## 🎯 Current Focus
+| Interactive Design | Unity Dev | Web Dev |
+|--------------------|-----------|---------|
+| Gamification | Virtual & Augmented Reality | Educational Technologies |
 
 ---
 
 ## 💡 Philosophy
-
-Technology is not just about writing code.
-
-The best digital experiences emerge when **programming, design and education** work together.
-
-My goal is to build systems that **inspire, engage and transform learning into experience**.
+> “Technology is not just about writing code. I believe the best digital experiences emerge when programming, design and education work together. My goal is to create interactive solutions that inspire, engage and transform people through meaningful experiences.”
 
 ---
 
 ## 🤝 Connect with Me
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 🧑‍💻 GitHub: https://github.com  
-- 💬 Discord: yourdiscord  
-- 📸 Instagram: https://instagram.com  
-
----
-
-> “Creating worlds where learning feels like play and play becomes learning.”
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/thiagoorlandini)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/thiagoorlandini)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:orlandini.thiago@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/thiagoorlandini)  
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord)](https://discordapp.com/users/thiagoorlandini)
